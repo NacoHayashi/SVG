@@ -1,0 +1,23 @@
+{
+  "name": "svg-sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "svg-sprite": "svg-sprite-generate -d /Users/naco/Desktop/work/Test/SVG/icons -o //Users/naco/Desktop/work/Test/SVG/svg-sprite.svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NacoHayashi/SVG.git"
+  },
+  "author": "Naco Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NacoHayashi/SVG/issues"
+  },
+  "homepage": "https://github.com/NacoHayashi/SVG#readme",
+  "dependencies": {
+    "svg-sprite-generator": "0.0.7"
+  }
+}
